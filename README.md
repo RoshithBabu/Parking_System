@@ -1,5 +1,5 @@
-# Magnetometer-vehicle-detection
-Magnetometer based Vehicle Detection for Parking Systems
+
+# Magnetometer based Vehicle Detection for Parking Systems
 
 The primary aim of this project is to address the ongoing problems of finding a parking spot, which has become a tedious and time-consuming task. The objective is to develop a system that can detect vacant parking slots and provide that information to users, thereby preventing traffic congestion, driver stress, and unwanted fuel wastage. The proposed solution involves using QMC5883L GY-273 MAGNETOMETERS as sensors to detect the presence of a vehicle in a parking slot, wherein the information is wirelessly transmitted, using Ra-02 SX1278 LoRa TRANSCEIVER modules, to a master node that communicates with the user.
 
